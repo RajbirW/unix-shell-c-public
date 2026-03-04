@@ -1,0 +1,4 @@
+*.o
+mysh
+*.save
+.DS_Store
